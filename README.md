@@ -1,2 +1,2 @@
 # Arduino
-Arduino projects of dropshipsmile.com
+Arduino projects from [dropshipsmile.com](http://www.dropshipsmile.com/).
